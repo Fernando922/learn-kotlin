@@ -1,5 +1,5 @@
 <h1 align="center">
-  kotlin Apps
+  Kotlin Apps
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## :rocket: Project
 
-:globe_with_meridians:  Projects to learn kotlin in Android
+:globe_with_meridians:  Projects to learn Kotlin in Android
 
 
 ## Preview
@@ -22,7 +22,7 @@
 
 ## :computer: Technologies
 - [Android](https://developer.android.com/)
-- [kotlin](https://kotlinlang.org/)
+- [Kotlin](https://kotlinlang.org/)
 
 ## :thinking: How to use?
 
