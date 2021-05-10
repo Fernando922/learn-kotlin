@@ -1,5 +1,5 @@
 <h1 align="center">
-  kotlin Apps
+  Kotlin Apps
 </h1>
 
 <p align="center">
